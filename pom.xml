@@ -12,7 +12,7 @@
   <artifactId>kotlin-plugin</artifactId>
   <packaging>pom</packaging>
   <name>Kotlin Plugin Parent POM</name>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <inceptionYear>2018</inceptionYear>
 
   <properties>
@@ -156,7 +156,7 @@
     <connection>scm:git:git://github.com/jenkinsci/kotlin-plugin-pom.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/kotlin-plugin-pom.git</developerConnection>
     <url>https://github.com/jenkinsci/kotlin-plugin-pom</url>
-    <tag>kotlin-plugin-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <repositories>
